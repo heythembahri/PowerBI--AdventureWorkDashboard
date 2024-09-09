@@ -12,6 +12,7 @@ Donut charts
 Bar charts
 Filtering Options: Users can filter data by year, month, city, category, and product.
 Interactivity: The dashboard updates automatically based on the selected filters.
+![Dashboard Screenshot](Téléchargements/adventure.png)
 
 
 
